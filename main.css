@@ -1,0 +1,26 @@
+.container{
+  padding: 10px;
+  margin:10px;
+}
+.large-image{
+  width:100%;
+ 
+  }
+.small-images {
+  width: 300px;
+  height:200px;
+}
+
+.work{
+  color: #7d97ad;
+}
+.image-title{
+  text-align: center;
+  
+}
+.image-link{
+  font-size: 15px;
+  color:black;
+  text-align: center;
+  
+}
